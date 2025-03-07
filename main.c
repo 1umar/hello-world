@@ -7,6 +7,6 @@ int main(void){
 num += 1;
 printf("Numarul curent: %d\n", num);
 
-
+// modificat in github
 return 0;
 }
